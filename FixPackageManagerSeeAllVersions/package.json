@@ -1,0 +1,15 @@
+{
+  "name": "com.defcon1.internal.package-manager-all-versions-unity",
+  "displayName": "Display All Packages Versions",
+  "version": "1.0.0",
+  "author": {
+    "name": "Defcon1",
+    "email": "ap@flinto.homes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flinto-homes/FixPackageManagerSeeAllVersions.git"
+  },
+  "unity": "2018.4",
+  "description": "Editor script to force Unity to display all available package versions."
+}
